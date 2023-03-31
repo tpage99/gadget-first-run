@@ -1,3 +1,11 @@
+# Gadget First Run
+
+Hopped on a call with Mo and Karl to kick the tires on Gadget.dev. 
+
+Super impressive and tested out playing with an app that adds an opportunity to include a VAT field at checkout (checkout extensions what) and then some additional logic there that checks to see whether it's valid or not and then tag the order with valid or invalid vat as necessary.
+
+/* Begin Shopify Boilerplate from Docs */
+
 # Shopify App Template - Node
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
